@@ -1,8 +1,7 @@
-'##
-Ваш репозиторий Github Learning Lab для ввeдения в HTML'
+'##Ваш репозиторий Github Learning Lab для ввeдения в HTML'
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
-ОУ! Я еще не представился...
+ОЙ! Я еще не представился...
 
 Я GitHub Learning Lab bot, и я здесь, чтобы помочь вам в вашем путешествии, чтобы узнать и освоить различные темы, охватываемые в этом курсе. Я буду использовать вопрос и тянуть запрос комментариев, чтобы связаться с вами. На самом деле, я уже добавил вопрос для вас, чтобы проверить.
 
